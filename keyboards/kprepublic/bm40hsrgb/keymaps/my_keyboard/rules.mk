@@ -1,0 +1,3 @@
+#rules
+TAP_DANCE_ENABLE = yes
+#ALLOW_WARNINGS = yes
